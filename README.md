@@ -31,9 +31,7 @@ But most importantly — it carries my **developer signature**:
 
 ## 🚀 Live Preview  
 
-👉 [View it Live on GitHub Pages](https://AL-Azaki.github.io/Build-a-Tribute-Page
-/)  
-
+👉 [View it Live on GitHub Pages](https://al-azaki.github.io/Build-a-Tribute-Page/)
 ---
 
 ## 📚 What I Learned  
